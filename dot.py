@@ -12,3 +12,4 @@ a = 56
 for i in range(8):
 	i += 2
 print(deltas)
+print(a)
