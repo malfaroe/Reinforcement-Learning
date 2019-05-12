@@ -1,4 +1,4 @@
-# My implementation of Augmented Random Search Algorithm on Openai BipedalWalker env
+# My implementation of Augmented Random Search Algorithm on Openai BipedalWalker environment
 
 import os
 import numpy as np
